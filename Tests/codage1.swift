@@ -8,6 +8,7 @@ func pairOuImpair(nombre: Int) -> String {
 var test: Int = 10
 print(pairOuImpair(nombre: test))
 
+//swift codage1/swift
 //git status
 // git add . => toutes les fichiers avec modification
 //git commit -m "add ex1"
